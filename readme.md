@@ -5,3 +5,5 @@
     - Acesse Diagnotics>Edit File e carregue o arquivo /usr/local/www/css/modern-ui.css, então preencha e salve
 4. Alterar o tema para modern-gui em System>General Setup>webConfigurator>Theme
 
+recomendado para 1920x1024 +
+
