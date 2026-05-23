@@ -90,7 +90,7 @@ body.sidebar-collapsed .navbar-inverse {
   margin: 0 auto;
   display: block;
   padding: 0;
-  background-image: url('') !important;
+  background-image: url('https://raw.githubusercontent.com/AleixoLucas42/pfsense-modern-ui/refs/heads/main/pfsense-logo.png') !important;
   background-size: contain !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
