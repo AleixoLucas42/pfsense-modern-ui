@@ -2,6 +2,8 @@
 
 This repository contains a CSS visual theme inspired by the "pfsense-modern-gui" (https://github.com/remotelyroot/pfsense-modern-gui) project, adapted to give the pfSense WebGUI a more modern, dark, and consistent appearance.
 
+![modern-ui](modern-ui.png)
+
 ## What this CSS does
 
 * Applies a dark theme based on `pfSense-dark.css`;
